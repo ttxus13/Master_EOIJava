@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClaseMath/ClaseMath.iml" filepath="$PROJECT_DIR$/ClaseMath/ClaseMath.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClaseSystem/ClaseSystem.iml" filepath="$PROJECT_DIR$/ClaseSystem/ClaseSystem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Estructurasconyrol/Estructurasconyrol.iml" filepath="$PROJECT_DIR$/Estructurasconyrol/Estructurasconyrol.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java basico/Java basico.iml" filepath="$PROJECT_DIR$/Java basico/Java basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/ClaseMath/ClaseMath.iml" filepath="$PROJECT_DIR$/BasicsJava/ClaseMath/ClaseMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/ClaseSystem/ClaseSystem.iml" filepath="$PROJECT_DIR$/BasicsJava/ClaseSystem/ClaseSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/Estructurasconyrol/Estructurasconyrol.iml" filepath="$PROJECT_DIR$/BasicsJava/Estructurasconyrol/Estructurasconyrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/Java basico/Java basico.iml" filepath="$PROJECT_DIR$/BasicsJava/Java basico/Java basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Master_EOIJava.iml" filepath="$PROJECT_DIR$/.idea/Master_EOIJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ValorReferencia/ValorReferencia.iml" filepath="$PROJECT_DIR$/ValorReferencia/ValorReferencia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Wrappers/Wrappers.iml" filepath="$PROJECT_DIR$/Wrappers/Wrappers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
-      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/BasicsJava/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/ValorReferencia/ValorReferencia.iml" filepath="$PROJECT_DIR$/BasicsJava/ValorReferencia/ValorReferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/Wrappers/Wrappers.iml" filepath="$PROJECT_DIR$/BasicsJava/Wrappers/Wrappers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/operadores/operadores.iml" filepath="$PROJECT_DIR$/BasicsJava/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/string/string.iml" filepath="$PROJECT_DIR$/BasicsJava/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicsJava/variables/variables.iml" filepath="$PROJECT_DIR$/BasicsJava/variables/variables.iml" />
     </modules>
   </component>
 </project>
