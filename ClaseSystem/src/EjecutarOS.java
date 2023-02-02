@@ -9,7 +9,7 @@ public class EjecutarOS {
                 //macOS o Linux
                 proceso =rt.exec("open -a Calculator");
 
-            }
+            }proceso.waitFor();
 
         }catch (Exception e){
             System.err.println("comando desconocido"+e.getLocalizedMessage());
