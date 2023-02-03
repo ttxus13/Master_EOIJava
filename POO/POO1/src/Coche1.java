@@ -13,7 +13,41 @@ public class Coche1 {
     final static int EN=112;
     static  String distintivo="E";
     private String numSerie;
+    //constructores
+    public Coche1(){
+        this.km=4;
+    }
+    public Coche1(String marca){
+        this();
+        this.marca=marca;
+    }
+    public Coche1(String marca,String modelo){
+        this();
+        this.marca=marca;
+        this.modelo=modelo;
+    }
+    public Coche1(String marca, String modelo, String color, String carroceria, float potencia, float cilindrada, String combustible, float deposito) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.color = color;
+        this.carroceria = carroceria;
+        this.potencia = potencia;
+        this.cilindrada = cilindrada;
+        this.combustible = combustible;
+        this.deposito = deposito;
+    }
 
+    public Coche1(String marca, String modelo, String color, String carroceria, float potencia, float cilindrada, String combustible, float deposito, String numSerie) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.color = color;
+        this.carroceria = carroceria;
+        this.potencia = potencia;
+        this.cilindrada = cilindrada;
+        this.combustible = combustible;
+        this.deposito = deposito;
+        this.numSerie = numSerie;
+    }
     //getter y setter(encapsulado)
 
 
