@@ -16,19 +16,26 @@ public class FiguraGeom {
     }
 
     public void perimetro(){
-       perimetro= lados*longitud;
+        if(lados==0||lados==1){
+            perimetro=longitud;
+        }else {
+            perimetro = lados * longitud;
+        }
 
     }
     public void superficie(){//s=n*l*a/2    a=L/2tan angul  angul=360/2n
         switch (lados){
             case 0:
             case 1:
+                superficie=(Math.pow((perimetro/2),2))/Math.PI;
+                //((circumf /2)^2)/pi =  A
 
                 break;
             case 2:
                 superficie=0;
                 break;
-                case 3;
+            case 3:
+                superficie=Math.sqrt(3)/4*Math.pow(longitud,2);
                 //raiz de 3) /4 * lado^2
                 break;
             case 4:
